@@ -1,2 +1,2 @@
 # ctf-solutions
-Solutions for pwn and reverse challenges
+My solutions for pwn and reverse CTF challenges
